@@ -1,5 +1,3 @@
-## Hello world!
-- 🤓 My name is Gabriel Pierre
 - 📚 I'm a computer engineering student
 - 🌱 I'm currently learning requirements engineering and deep learning
 <div align="center">
