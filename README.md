@@ -1,5 +1,5 @@
 - 📚 I'm a computer engineering student
-- 🌱 I'm currently learning requirements engineering and deep learning
+- 🌱 I'm currently learning computer vision and machine learning
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
