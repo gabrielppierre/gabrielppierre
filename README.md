@@ -1,4 +1,4 @@
-- 📚 I'm a computer engineering student
+- 📚 I'm a computer science student at UFPE
 - 🌱 I'm currently learning computer vision and machine learning
 
 <div style="display: inline_block"><br>
